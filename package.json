@@ -13,6 +13,6 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@scarf/scarf": "../scarf-js"
+    "@scarf/scarf": "1.3.0"
   }
 }
